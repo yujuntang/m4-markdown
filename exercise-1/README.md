@@ -14,12 +14,14 @@ See `complete` branch for an example.
 Two spaces at the end of a line  
 leave aline break.
 
-P1: _12345_  __上山打老虎__  *老虎不在家啊*  **打到小松鼠**
+P1: _12345_  __上山打老虎__  
+   *老虎不在家啊*  **打到小松鼠**
 
 `monospace P2： nothing`
 
 --- P3: 12345
-上山打老虎 老虎不在家
+上山打老虎
+老虎不在家
 打到小松鼠
 
 This is a quote:
