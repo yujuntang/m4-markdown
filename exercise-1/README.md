@@ -11,6 +11,9 @@ See `complete` branch for an example.
 ## Lab1
 ### Quotes
 
+Two spaces at the end of a line  
+leave aline break.
+
 P1: _12345_  __上山打老虎__  *老虎不在家啊*  **打到小松鼠**
 
 `monospace P2： nothing`
