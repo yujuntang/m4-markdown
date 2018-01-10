@@ -5,6 +5,22 @@ As described in [chapter-5](https://info201-s17.github.io/book/introduction-to-g
 Then, in the space below, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote. When you push your changes back up to GitHub, you will see the rendered markdown file.
 
 See `complete` branch for an example.
-This is not my favorite quote. This is just a very shitty quote from a tragic book
-`Okay? Okay.`
-http://www.goodreads.com/quotes/533254-okay-he-said-i-gotta-go-to-sleep-it-s-almost
+
+
+# Title
+## Lab1
+### Quotes
+
+P1: _12345_  __上山打老虎__  *老虎不在家啊*  **打到小松鼠**
+
+`monospace P2： nothing`
+
+--- P3: 12345
+上山打老虎 老虎不在家
+打到小松鼠
+
+This is a quote:
+
+> "As he read, I fell in love the way you fall asleep: slowly, and then all at once.”
+
+-- John Green, The Fault in Our Stars
